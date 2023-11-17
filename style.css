@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+label {
+  font-size: 2rem;
+}
+
+textarea {
+  width: 600px;
+  height: 200px;
+  padding: 10px;
+  font-size: 1.5rem;
+  resize: none;
+}
+
+input[type="submit"] {
+  padding: 10px;
+}
